@@ -2,7 +2,7 @@
 
 *English version is down below.*
 
-[![Button Notion random quote]][https://aulasau.notion.site/20768d1595884bf7bb41a74964f3953c] 
+[![Button Notion random quote](https://aulasau.notion.site/20768d1595884bf7bb41a74964f3953c)
 
 ## Беларускія цытаты, прыказкі, прымаўкі
 Датасэт беларускіх выразаў, сабраны з адкрытых крыніц Інтэрнэта.  
