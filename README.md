@@ -1,15 +1,15 @@
 ![Alt text](imgs/wordcloud_categories.png)
 
-*English version is down below.*
 
-[![Button Notion random quote](https://aulasau.notion.site/20768d1595884bf7bb41a74964f3953c)
 
-## Беларускія цытаты, прыказкі, прымаўкі
+*English readme is [here](eng_readme.md).*
+## Беларускія цытаты, прыказкі, прымаўкі       
 Датасэт беларускіх выразаў, сабраны з адкрытых крыніц Інтэрнэта.  
 Апошняя версія датасэта ляжыць **[тут](data/full_df_v_0.1.csv).**
 
-Датасэт быў сабраны для **Notion**, каб кожны дзень атрымліваць выпадковую цытату.  
-#### [*Шаблон у Notion з 2 выпадковымі цытатамі кожную гадзіну*](https://aulasau.notion.site/20768d1595884bf7bb41a74964f3953c)
+Датасэт быў сабраны для **Notion**, каб кожны дзень атрымліваць выпадковую цытату.   
+<br>
+Глядзі тут --> [![Static Badge](https://img.shields.io/badge/Notion-Шаблон_з_цытатамі-red)](https://aulasau.notion.site/20768d1595884bf7bb41a74964f3953c)
 
 ---
 #### Крыніцы
