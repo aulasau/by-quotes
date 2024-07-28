@@ -2,12 +2,15 @@
 
 
 ## Belarusian quotes, proverbs, sayings
-A dataset of Belarusian expressions collected from open Internet sources.
-The latest version of the dataset is **[here](data/full_df_v_0.1.csv).**
+A dataset of Belarusian expressions collected from open Internet sources.  
+The latest version of the dataset is in .csv format is **[here](data/full_df_v_0.1.csv).**
 
 The dataset was put together for **Notion** to receive a random quote every day.
 <br>
-See here -- > [![Static Badge](https://img.shields.io/badge/Notion-template_random_quotes-red)](https://aulasau.notion.site/20768d1595884bf7bb41a74964f3953c)
+
+Notion template:
+
+[![Static Badge](https://img.shields.io/badge/Notion-Public_template-red?style=for-the-badge)](https://aulasau.notion.site/20768d1595884bf7bb41a74964f3953c)
 
 ---
 #### Sources
